@@ -1,5 +1,9 @@
 # KasirPOS - Sistem Point of Sale Interaktif
 
+![Version](https://img.shields.io/badge/version-2.2.0-blue) ![Language](https://img.shields.io/badge/language-HTML-orange) ![License](https://img.shields.io/badge/license-CC0%201.0-green) ![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen)
+
+---
+
 > **Versi:** 2.2.0 | **Tanggal Rilis:** 24 Mei 2026 | **Lisensi:** MIT | **Developer:** mlev@2026 SAKA.OMNI PLATFORM
 
 ## Daftar Isi
