@@ -396,4 +396,4 @@ Proyek ini dikembangkan sebagai aplikasi mandiri. Untuk melakukan modifikasi:
 
 ---
 
-*Dibangun oleh Super Z AI Assistant (Z.ai) dengan arsitektur yang diinspirasi oleh template medis "Jadwal Obat 10 Hari - Siklus Medis 24 Jam"*
+*Dibangun dengan arsitektur yang diinspirasi oleh template medis "Jadwal Obat 10 Hari - Siklus Medis 24 Jam"*
