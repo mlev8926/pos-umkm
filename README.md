@@ -1,6 +1,6 @@
 # KasirPOS - Sistem Point of Sale Interaktif
 
-> **Versi:** 2.2.0 | **Tanggal Rilis:** 24 Mei 2026 | **Lisensi:** MIT | **Developer:** Super Z AI Assistant (Z.ai)
+> **Versi:** 2.2.0 | **Tanggal Rilis:** 24 Mei 2026 | **Lisensi:** MIT | **Developer:** mlev@2026 SAKA.OMNI PLATFORM
 
 ## Daftar Isi
 
